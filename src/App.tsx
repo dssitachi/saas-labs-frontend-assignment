@@ -1,9 +1,8 @@
+import ProjectsTable from "./ProjectsTable"
 
 function App() {
-
   return (
-    <>
-    </>
+    <ProjectsTable />
   )
 }
 
