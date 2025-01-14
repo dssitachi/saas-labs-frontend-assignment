@@ -100,8 +100,8 @@ function ProjectsTable() {
 				startPage = totalPages - maxVisiblePages + 1;
 				endPage = totalPages;
 			} else {
-				startPage = currentPage - 5;
-				endPage = currentPage + 4;
+				startPage = currentPage - 4;
+				endPage = currentPage + 5;
 			}
 		}
 
